@@ -1,5 +1,5 @@
 library(testthat)
-library(projPropCCMS)
+library(prodigenrCCMS)
 library(devtools)
 
-test_check("projPropCCMS")
+test_check("prodigenrCCMS")
